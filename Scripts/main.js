@@ -18,8 +18,8 @@ eclipseSD.speed = 1
 eclipseSD.health = 5000000;
 eclipseSD.hitSize = 100;
 
-//units
-require("unit/eclipseSD");
+//Units
+require("unit/imperial");
 
 
 
