@@ -1,0 +1,6 @@
+name: "Rebels-Vs-Empire"
+displayName: "RVE"
+author: "Emanuel G" 
+description: "Adds some units from Star Wars" 
+version: "1.0 alpha" 
+minGameVersion: 120
