@@ -5,6 +5,14 @@
  const eclipseSuperLaser = extend(LaserBulletType, {});
 } 
 
+eclipseSuperLaser.lightningSpacing = 15
+eclipseSuperLaser.width = 250
+eclipseSuperLaser.length = 400
+eclipseSuperLaser.lightningDelay = 15
+eclipseSuperLaser.damage = Number.MAX_VALUE - 1;
+eclipseSuperLaser.lightningColor = Pal.remove;
+eclipseSuperLaser.colors = [ Pal.remove, Color.green];
+
 
 
  
