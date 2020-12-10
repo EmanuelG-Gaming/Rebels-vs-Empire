@@ -1,22 +1,22 @@
  // Weapons
- const eclipseSuperLaser = new Weapon();
+ const eclipseSDSuperLaser = new Weapon();
  
  // Bullets
- const eclipseSuperLaser = extend(LaserBulletType, {});
+ const eclipseSDSuperLaser = extend(LaserBulletType, {});
 } 
 
-eclipseSuperLaser.lightningSpacing = 15
-eclipseSuperLaser.width = 250
-eclipseSuperLaser.length = 400
-eclipseSuperLaser.lightningDelay = 15
-eclipseSuperLaser.damage = Number.MAX_VALUE - 1;
-eclipseSuperLaser.lightningColor = Pal.remove;
-eclipseSuperLaser.colors = [ Pal.remove, Color.green];
+eclipseSDSuperLaser.lightningSpacing = 15
+eclipseSDSuperLaser.width = 250
+eclipseSDSuperLaser.length = 400
+eclipseSDSuperLaser.lightningDelay = 15
+eclipseSDSuperLaser.damage = Number.MAX_VALUE - 1;
+eclipseSDSuperLaser.lightningColor = Pal.remove;
+eclipseSDSuperLaser.colors = [ Pal.remove, Color.green];
 
-//eclipse
-eclipse.speed = 1
-eclipse.health = 5000000;
-eclipse.hitSize = 100;
+//eclipseSD
+eclipseSD.speed = 1
+eclipseSD.health = 5000000;
+eclipseSD.hitSize = 100;
 
 
 
