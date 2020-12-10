@@ -13,6 +13,13 @@ eclipseSuperLaser.damage = Number.MAX_VALUE - 1;
 eclipseSuperLaser.lightningColor = Pal.remove;
 eclipseSuperLaser.colors = [ Pal.remove, Color.green];
 
+//eclipse
+eclipse.speed = 1
+eclipse.health = 5000000;
+eclipse.hitSize = 100;
+
+
+
 
 
  
