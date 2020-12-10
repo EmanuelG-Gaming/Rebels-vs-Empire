@@ -1,5 +1,5 @@
 {
-        "type":"fighter" 
+        "type":"mech" 
 	"speed": 1,	
 	"accel": 0.08,	
 	"drag": 0.2,
