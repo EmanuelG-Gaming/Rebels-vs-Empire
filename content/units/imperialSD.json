@@ -1,6 +1,6 @@
 {
-        "type"= "fighter" 
-	"speed": 1.2,	
+        "type":"fighter" 
+	"speed": 1,	
 	"accel": 0.08,	
 	"drag": 0.2,
 	"flying": true,
